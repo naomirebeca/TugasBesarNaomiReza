@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">TANIKU</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="st_dasar">HOME</string>
+    <string name="st_sejarah">CONTACT</string>
+    <string name="st_pancasila">JAVAMAS</string>
+    <string name="tit_sejarah">CONTACT</string>
+    <string name="st_sila1">Ketuhanan yang maha Esa</string>
+    <string name="st_sila2">Kemanusiaan yang adil dan beradab</string>
+    <string name="st_sila3">Persatuan Indonesia</string>
+    <string name="st_sila4">Kerakyatan yang dipimpin oleh hikmat kebijaksanaan dalam permusyawaratan/perwakilan</string>
+    <string name="st_sila5">Keadilan sosial bagi seluruh rakyat Indonesia</string>
+    <string name="Header_Title">TANIKU</string>
+    <string name="Bar1">BUDIDAYA</string>
+    <string name="Bar2">AGROTEKNOLOGI</string>
+    <string name="Bar3">PRODUK</string>
+    <string name="Bar4">INFORMASI</string>
+    <string name="Bar5">Sila ke-5</string>
+    <string name="BarExit">Keluar</string>
+    <string name="head_Sejarah">CONTACT</string>
+    <string name="Tab1">INFO 1</string>
+    <string name="Tab2">INFO 2</string>
+    <string name="Tab3">INFO 3</string>
+    <string name="Gambar1">JAVAMAS AGROPHOS</string>
+    <string name="Gambar2">BROKOLI</string>
+    <string name="Gambar3">JAGUNG</string>
+    <string name="Gambar4">KENTANG</string>
+
+    <!-- AdMob ad unit IDs , Kode ADMOB-->
+    <string name="banner_home_footer">ca-app-pub-9483653834645976/1803054045</string>
+</resources>

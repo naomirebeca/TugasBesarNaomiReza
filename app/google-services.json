@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "11131289358",
+    "firebase_url": "https://ladangku-710d0.firebaseio.com",
+    "project_id": "ladangku-710d0",
+    "storage_bucket": "ladangku-710d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11131289358:android:ca0691f7bb64ee1b",
+        "android_client_info": {
+          "package_name": "net.gusri.pancasila"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11131289358-nn7fc9e0incfslfmpgqb189d5ohci9si.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.gusri.pancasila",
+            "certificate_hash": "6c142f702755aec7394c8104afa1632f498e60f9"
+          }
+        },
+        {
+          "client_id": "11131289358-ooh2kfrqabhmiqgopn624etmj9avv60j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8OgvSkk-0uF3iWMptAY-ZbMm0JgPe77M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "11131289358-ooh2kfrqabhmiqgopn624etmj9avv60j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
